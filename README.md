@@ -39,5 +39,3 @@ This will open the webcam, and the program will start detecting the driver's dro
 ## Acknowledgments
 
 This project is inspired by [this tutorial](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/) by Adrian Rosebrock.
-
-![]()![jadhavdiksha397@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F65dfca1b2ccb4d523bbbd4f7ab0779d2%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fja.png&w=64&q=75)
